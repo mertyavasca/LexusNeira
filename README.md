@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mert Yavasca
-- 👀 I’m interested in Databases, DevOps and Infrastructre as Code approach to enchance Infrastructure reliability in the scope of Databases.
+- 👀 I’m interested in Databases and Infrastructre as Code approach to enchance Infrastructure reliability in the scope of Databases.
 - 📫 You can reach me on LinkedIn, https://www.linkedin.com/in/mert-yava%C5%9Fca-03b141162/.
 
 <!---
